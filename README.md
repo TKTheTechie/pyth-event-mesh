@@ -4,7 +4,7 @@ This application is a sample implemntation of Pyth -> Solace PubSub+ Feedhandler
 
 ## Installing 
 
-This project uses [node
+This project uses [node](https://nodejs.org)
 
 ```bash
 npm install
